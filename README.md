@@ -19,6 +19,8 @@ Works on Android, support has been added on version 1.2.0. Tested in [Ungoogled 
 3. **Load unpacked** and select this `fingerprint-shield` folder
    (after updating files, press the reload icon on the extension card)
 
+[Read the installation guide](https://github.com/r2ality/core/blob/main/INSTALLATION.md) in case you're having issues.
+
 ## What it does
 - **Canvas (Tor Browser style)**: reading canvas pixels (`toDataURL`, `toBlob`, `getImageData`,
   `OffscreenCanvas.convertToBlob`, WebGL `readPixels`) returns a blank white image of the same size.
