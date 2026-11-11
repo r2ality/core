@@ -4,9 +4,9 @@ Chromium MV3 extension (Chrome/Chromium 120+).
 
 ## Status
 
-Working on Windows, Linux and FreeBSD, running any kind of chromium browser. Tested in Ungoogled Chromium.
+Working on Windows, Linux and FreeBSD, running any kind of chromium browser. Tested in [Ungoogled Chromium.](https://github.com/ungoogled-software/ungoogled-chromium)
 
-Works on Android, support has been added on version 1.2.0. Tested in Ungoogled Chromium, LineageOS (Android port).
+Works on Android, support has been added on version 1.2.0. Tested in [Ungoogled Chromium, LineageOS (Android port).](https://github.com/ungoogled-software/ungoogled-chromium-android)
 
 ## See:
 
