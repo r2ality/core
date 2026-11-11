@@ -28,6 +28,22 @@ Go to extensions, tap on "Manage extensions", tap on Developer options to enable
 
 Select the webstore .crx, and you should be good to go.
 
+# Installing Core
+
+Now that Chromium webstore is installed, we can proceed to the Core installation.
+
+## Step 1
+
+Enable developer options
+
+## Final step
+
+Load from unpacked, then choose the normal folder if you're on PC.
+
+If you're on Android, choose the android folder.
+
+If any error happens, you can try removing the Android folder or vice versa.
+
 ## Credits
 
 https://github.com/NeverDecaf/chromium-web-store for writing half of the guide.
