@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "modifyHeaders",
+      "requestHeaders": [
+        { "header": "Accept-Language", "operation": "set", "value": "en-US,en;q=0.9" },
+        { "header": "Sec-GPC", "operation": "set", "value": "1" },
+        { "header": "DNT", "operation": "set", "value": "1" },
+
+        { "header": "Sec-CH-UA-Model", "operation": "remove" },
+        { "header": "Sec-CH-UA-Platform-Version", "operation": "remove" },
+        { "header": "Sec-CH-UA-Full-Version", "operation": "remove" },
+        { "header": "Sec-CH-UA-Full-Version-List", "operation": "remove" },
+        { "header": "Sec-CH-UA-Arch", "operation": "remove" },
+        { "header": "Sec-CH-UA-Bitness", "operation": "remove" },
+        { "header": "Sec-CH-UA-WoW64", "operation": "remove" },
+        { "header": "Sec-CH-UA-Form-Factors", "operation": "remove" },
+        { "header": "Sec-CH-Device-Memory", "operation": "remove" },
+        { "header": "Sec-CH-DPR", "operation": "remove" },
+        { "header": "Sec-CH-Viewport-Width", "operation": "remove" },
+        { "header": "Sec-CH-Width", "operation": "remove" },
+        { "header": "Device-Memory", "operation": "remove" },
+        { "header": "DPR", "operation": "remove" },
+        { "header": "Viewport-Width", "operation": "remove" },
+        { "header": "Width", "operation": "remove" },
+        { "header": "Downlink", "operation": "remove" },
+        { "header": "ECT", "operation": "remove" },
+        { "header": "RTT", "operation": "remove" },
+        { "header": "Save-Data", "operation": "remove" }
+      ]
+    },
+    "condition": {
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame",
+        "stylesheet",
+        "script",
+        "image",
+        "font",
+        "object",
+        "xmlhttprequest",
+        "ping",
+        "media",
+        "websocket",
+        "other"
+      ]
+    }
+  }
+]
