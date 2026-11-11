@@ -19,3 +19,7 @@ Install the .crx file [here](https://github.com/NeverDecaf/chromium-web-store/re
 Go to extensions, tap on "Manage extensions", tap on Developer options to enable it, then tap "Load .crx"
 
 Select the webstore .crx, and you should be good to go.
+
+## Credits
+
+https://github.com/NeverDecaf/chromium-web-store for writing half of the guide.
