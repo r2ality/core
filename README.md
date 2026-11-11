@@ -8,6 +8,11 @@ Working on Windows, Linux and FreeBSD, running any kind of chromium browser. Tes
 
 Works on Android, support has been added on version 1.2.0. Tested in Ungoogled Chromium, LineageOS (Android port).
 
+## See:
+
+[PC Demo](https://github.com/r2ality/core/tree/main#pc-demo-nixos-ungoogled-chromium)
+[Android Demo](https://github.com/r2ality/core/tree/main#android-demo-lineageos-ungoogled-chromium-android-port)
+
 ## Install
 1. Open `chrome://extensions`
 2. Enable **Developer mode**
