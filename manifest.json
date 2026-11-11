@@ -1,13 +1,13 @@
 {
   "manifest_version": 3,
   "name": "Core",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Tor-style canvas protection (blank readback unless allowed per site), WebGL spoofing, UTC timezone and en-US language before pages load, plus Chromium hardening.",
   "minimum_chrome_version": "120",
   "permissions": ["declarativeNetRequest", "privacy", "scripting", "storage"],
   "host_permissions": ["<all_urls>"],
   "action": {
-    "default_title": "Fingerprint Shield: click to allow canvas reads on this site"
+    "default_title": "Core: click to allow canvas reads on this site"
   },
   "background": {
     "service_worker": "background.js"
