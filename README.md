@@ -1,4 +1,4 @@
-# Fingerprint Shield
+# Core
 
 Chromium MV3 extension (Chrome/Chromium 120+).
 
