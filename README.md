@@ -5,7 +5,10 @@ Chromium MV3 extension (Chrome/Chromium 120+).
 ## Status
 
 Working on Windows, Linux and FreeBSD, running any kind of chromium browser.
+
 Works on Android, except it doesn't support all features. battery, CPU cores and others are still fingerprintable (Tested on LineageOS running ungoogled chromium).
+
+Will be adding full support for Android soon.
 
 ## Install
 1. Open `chrome://extensions`
