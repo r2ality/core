@@ -1,13 +1,13 @@
 {
   "manifest_version": 3,
-  "name": "Fingerprint Shield (Android)",
+  "name": "Core (Android)",
   "version": "1.2.0",
   "description": "Android build: Tor-style canvas protection, WebGL spoofing, UTC timezone, en-US language, plus battery, sensors, network info and device-model hint protection.",
   "minimum_chrome_version": "120",
   "permissions": ["declarativeNetRequest", "privacy", "scripting", "storage"],
   "host_permissions": ["<all_urls>"],
   "action": {
-    "default_title": "Fingerprint Shield: tap to allow canvas reads on this site"
+    "default_title": "Core Android: tap to allow canvas reads on this site"
   },
   "background": {
     "service_worker": "background.js"
