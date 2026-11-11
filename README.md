@@ -4,11 +4,9 @@ Chromium MV3 extension (Chrome/Chromium 120+).
 
 ## Status
 
-Working on Windows, Linux and FreeBSD, running any kind of chromium browser.
+Working on Windows, Linux and FreeBSD, running any kind of chromium browser. Tested in Ungoogled Chromium.
 
-Works on Android, except it doesn't support all features. battery, CPU cores and others are still fingerprintable (Tested on LineageOS running ungoogled chromium).
-
-Will be adding full support for Android soon.
+Works on Android, support has been added on version 1.2.0. Tested in Ungoogled Chromium, LineageOS (Android port).
 
 ## Install
 1. Open `chrome://extensions`
@@ -51,7 +49,7 @@ Launch Chromium with the real timezone and language set at process level:
     TZ=UTC chromium --lang=en-US --accept-lang=en-US
 
 
-## Screenshots
+## Demo
 
 ![Picture 1](https://raw.githubusercontent.com/end-sky/fingerprint-shield/refs/heads/main/pics/1791940740.png)
 ![Picture 2](https://raw.githubusercontent.com/end-sky/fingerprint-shield/refs/heads/main/pics/1791940748.png)
