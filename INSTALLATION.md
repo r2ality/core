@@ -14,6 +14,14 @@ If you aren't using Ungoogled Chromium or a fork, Ensure the following option is
 
 Install the .crx file [here](https://github.com/NeverDecaf/chromium-web-store/releases/latest)
 
+## Final step
+
+After downloading it, there should popup an option to add the extension to the browser, click "confirm" or something similar in your language.
+
+You should be done after that and you should be allowed to install any extension.
+
+Keep in mind that **Developer options** should be enabled if you want to install Core.
+
 ## Android
 
 Go to extensions, tap on "Manage extensions", tap on Developer options to enable it, then tap "Load .crx"
